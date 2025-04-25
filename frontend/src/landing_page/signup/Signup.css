@@ -1,0 +1,20 @@
+.signup-bg {
+    background-color: white; /* change this for full background color */
+    padding: 2rem;
+  }
+  
+  .signup-card {
+    max-width: 900px;
+    background-color: white;
+    border-radius: 12px;
+    overflow: hidden;
+  }
+  
+  .signup-image {
+    width: 80%;
+    height: 100%;
+    object-fit: cover;
+    border-top-left-radius: 12px;
+    border-bottom-left-radius: 12px;
+  }
+  
